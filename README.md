@@ -1,1 +1,2 @@
 # Handwritten-Digit-Recognition-System-Based-on-CNN-Convolutional-Neural-Network
+设计并实现了一个高效的手写数字识别系统，采用PyTorch框架构建LeNet-5卷积神经网络模型。通过对MNIST数据集的训练和优化，提高了测试准确率。在模型优化方面，引入了Batch Normalization技术有效防止过拟合，显著提升了模型的泛化能力。系统集成OpenCV进行图像预处理，包括二值化、去噪和归一化操作，大幅提高了对不同质量输入图像的识别精度。
